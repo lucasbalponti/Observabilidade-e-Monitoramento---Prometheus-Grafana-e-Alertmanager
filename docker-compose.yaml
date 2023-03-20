@@ -118,3 +118,4 @@ services:
       - proxy
     depends_on:
       - grafana-forum-api
+      
